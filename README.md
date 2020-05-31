@@ -1,6 +1,6 @@
 # spring-boot-couchbase_N1QL_Query
 
-For Swagger u need to add libreary
+### For Swagger u need to add libreary explicitly added in lib. extract the zip copy the folder and paste in side .m2/repository/io 
 
 ## Search N1QL Queries for Couchbase
 -------------------------------------
